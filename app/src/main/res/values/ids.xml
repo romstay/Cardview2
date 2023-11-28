@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="img" type="id" />
+    <item name="logo" type="id" />
+    <item name="UangBayar" type="id" />
+    <item name="bonus" type="id" />
+    <item name="totalbelanja" type="id" />
+    <item name="uangkembali" type="id" />
+    <item name="keterangan" type="id" />
+</resources>
